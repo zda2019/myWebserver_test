@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CGImysql",
+    "\\http",
+    "\\lock",
+    "\\log",
+    "\\threadpool",
+    "\\timer"
+  ],
+  "SelectedNode": "\\main.cpp",
+  "PreviewInSolutionExplorer": false
+}
